@@ -23,3 +23,5 @@ Find de relevante decilgrænser og bestem gini-koefficienten vha. trapezer eller
 
 ## Opgave 5
 Foretag en strategisk analyse af Novo Nordisk ved brug af mindst 3 strategiske analyseværktøjer (mindst 1 internt og 1 eksternt), og kom med forslag til vækststrategi på de to markeder.
+
+l

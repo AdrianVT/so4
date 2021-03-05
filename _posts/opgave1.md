@@ -20,3 +20,6 @@ Tyskland har den centraleuropæiske velfærdsmodel, hvor man på den anden side 
 
 Men bare fordi Tyskland har den centraleuropæiske velfærdsmodel og Denmark har den universelle betyder det ikke at, landene kun holder sig inden for deres boks. Denmark giver for eksempel ikke dagpenge, det kan man valgfrit selv forsikre sig med, men der er selvfølelig stadig kontanthjælp. Tyskland har også på trods af de mange tvungne forsikringer, stadig et relativt højt skatteniveau med da skatteindtægterne udgør 40,3 procent af bnp . Virkeligheden er mere kompleks ind disse modeller giver til kende. 
 
+## Kilder 
+
+Se Word fill
